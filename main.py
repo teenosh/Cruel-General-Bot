@@ -3,7 +3,7 @@ from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, Application
 
-TOKEN: Final = '6923304560:AAFIt_YW7mlqvPEE6jP0--JJN4LMtMM1iQ8'
+TOKEN: Final = 'token <3'
 BOT_USERNAME: Final = '@Cruel_General_Bot'
 
 # commands
